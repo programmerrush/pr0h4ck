@@ -57,7 +57,7 @@ def quit():
            
 def  select():
   try:
-    choice = input("láppèl : ")
+    choice = input("lappel : ")
     if choice == 1:
       d3 = raw_input('Enter IP Or Domain : ')
       os.system("clear")
